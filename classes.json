@@ -1,0 +1,21 @@
+{
+  "classes": [
+    "apple",
+    "bus",
+    "cat",
+    "dog",
+    "fish",
+    "flower",
+    "house",
+    "key",
+    "pencil",
+    "star"
+  ],
+  "num_classes": 10,
+  "input_shape": [
+    28,
+    28,
+    1
+  ],
+  "test_accuracy": 92.52
+}
